@@ -1,10 +1,11 @@
 $bodyColor: #ff412d;
 body{
-  background-color: $bodyColor;
+  //background-color: $bodyColor;
   color: #ffffff;
   text-align: center;
   font-size: 120px;
   margin: 10px;
+  background: url("./img/bg.jpg") 0 0 no-repeat;
 }
 
 .className{
