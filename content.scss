@@ -1,0 +1,11 @@
+$bodyColor: #ff0000;
+body{
+  background-color: $bodyColor;
+  color: #ffffff;
+  text-align: center;
+  font-size: 150px;
+}
+
+.className{
+  display: flex;
+}
